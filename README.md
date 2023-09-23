@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @faruq05
 - 👀 I’m interested in learning skills
-- 🌱 I’m currently learning full stack web developmnet
+- 🌱 Front End Web Developer and WordPress Expert
 - 💞️ Visit my portfolio omorfaruq.com
 - 📫 How to reach me via faruq05.fiverr@gmail.com
 
