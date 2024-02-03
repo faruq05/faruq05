@@ -1,3 +1,5 @@
+![logo](https://github.com/faruq05/faruq05/blob/main/Poster.png)
+
 # 💫 About Me:
 - 👋 Hi, I’m Omor Faruq<br>- 👀 I’m interested in learning skills<br>- 🌱  Web Developer and WordPress Expert<br>- 💞️ Visit my portfolio at faruqweb.com<br>- 📫 Reach me via connect@faruqweb.com
 
