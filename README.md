@@ -1,7 +1,7 @@
 ![logo](https://github.com/faruq05/faruq05/blob/main/cover-Omor.png)
 
 # 💫 About Me:
-- 👋 Hi, I’m Omor Faruq<br>- 👀 I’m interested in learning skills<br>- 🌱  Web Developer and WordPress Expert<br>- 💞️ Visit my portfolio at <a href="faruqweb.com" target="_blank">faruqweb.com</a><br>- 📫 Reach me via connect@faruqweb.com
+- 👋 Hi, I’m Omor Faruq<br>- 👀 I’m interested in learning skills<br>- 🌱  Web Developer and WordPress Expert<br>- 💞️ Visit my portfolio at <a href="[faruqweb.com](https://faruqweb.com/)">faruqweb.com</a><br>- 📫 Reach me via connect@faruqweb.com
 
 
 ## 🌐 Socials:
